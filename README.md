@@ -13,4 +13,4 @@ Tema oscuro para interfaz de Sublime Text
 
 - Monokai Dark
 
-![python](./images/destacada-1024x538.jpg)
+![python](./images/sublime.jpg)
