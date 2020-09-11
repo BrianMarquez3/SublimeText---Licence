@@ -15,4 +15,5 @@ Win/Linux: ctrl+shift+p, Mac: cmd+shift+p
 Tema oscuro para interfaz de Sublime Text
 
 - Monokai Dark
+![python](./images/monokai.png)
 
