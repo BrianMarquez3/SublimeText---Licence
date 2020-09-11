@@ -2,6 +2,8 @@
 
 ## Install Package Control
 
+![python](./images/sublime.jpg)
+
 _Open the command palette_
 
 ```
@@ -13,4 +15,3 @@ Tema oscuro para interfaz de Sublime Text
 
 - Monokai Dark
 
-![python](./images/sublime.jpg)
