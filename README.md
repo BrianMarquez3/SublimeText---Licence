@@ -23,3 +23,7 @@ Visualiza los íconos de acuerdo a su extensión en el selector de archivos
 Instalacion de [A File Icons](https://packagecontrol.io/packages/A%20File%20Icon).<br>
 
 
+- Babel
+
+Selector automático de sintaxis para JavaScript: ECMAScript, TypeScript,  React
+Instalacion de [Babel(https://packagecontrol.io/packages/Babel).<br>
