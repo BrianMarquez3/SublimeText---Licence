@@ -18,6 +18,7 @@ Tema oscuro para interfaz de Sublime Text
 ![python](./images/monokai.png)
 
 - A File Icons
+
 Visualiza los íconos de acuerdo a su extensión en el selector de archivos
 Instalacion de [A File Icons](https://packagecontrol.io/packages/A%20File%20Icon).<br>
 
