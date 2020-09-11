@@ -2,6 +2,7 @@
 
 ## Install Package Control
 
+[Command Palette Install](https://packagecontrol.io/installation).<br>
 ![python](./images/sublime.jpg)
 
 _Open the command palette_
