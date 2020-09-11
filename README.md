@@ -26,4 +26,10 @@ Instalacion de [A File Icons](https://packagecontrol.io/packages/A%20File%20Icon
 - Babel
 
 Selector automático de sintaxis para JavaScript: ECMAScript, TypeScript,  React
-Instalacion de [Babel(https://packagecontrol.io/packages/Babel).<br>
+Instalacion de [Babel](https://packagecontrol.io/packages/Babel).<br>
+
+- BracketHighlighter
+
+Plugins que permite visualizar donde comienza y termina un bloque de código
+Instalacion de [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter).<br>
+
