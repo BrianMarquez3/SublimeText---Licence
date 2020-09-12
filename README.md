@@ -40,3 +40,23 @@ Start typing
 ```
 BracketHighlighter
 ```
+- Emmet
+
+Atajos para agilizar la escritura de código HTML: Tecla o etiqueta + Tabulador 
+ 
+From Command Palette, run Package Control: Install Package command.
+```
+Package Control: Install Package
+```
+
+In opened packages list, find Emmet package and install it
+
+```
+Emmet
+```
+
+
+
+
+
+
