@@ -31,5 +31,12 @@ Instalacion de [Babel](https://packagecontrol.io/packages/Babel).<br>
 - BracketHighlighter
 
 Plugins que permite visualizar donde comienza y termina un bloque de código
-Instalacion de [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter).<br>
+Instalacion de Package Control: Install Package
+```
+Package Control: Install Package
+```
 
+Start typing 
+```
+BracketHighlighter
+```
